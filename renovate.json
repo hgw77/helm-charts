@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "extends": [
+    "config:base"
+  ],
+  "includePaths":["system/**"],
+  "unicodeEmoji": true,
+  "separateMinorPatch": false,
+  "separateMajorMinor": true,
+  "prHourlyLimit": 10
+}
