@@ -3,7 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "includePaths":["system/*"],
+  "includePaths":["system/**"],
   "unicodeEmoji": true,
   "separateMinorPatch": false,
   "separateMajorMinor": true,
