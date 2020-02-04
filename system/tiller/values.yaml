@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: sapcc/tiller
-  tag: v2.11.0
+  tag: v2.16.1
   pullPolicy: IfNotPresent
 
 maxHistory: 5
@@ -50,10 +50,10 @@ role:
 ## (Helm does this automatically.)
 
 ## Specify whether to include a service of type ClusterIP for Tiller
-includeService: true 
+includeService: true
 
 ## Specify whether Tiller pods should listen to 0.0.0.0 or just localhost
-onlyListenOnLocalhost: false 
+onlyListenOnLocalhost: false
 
 ## We usually recommend not to specify default resources and to leave this as a conscious
 ## choice for the user. This also increases chances charts run on environments with little
