@@ -94,7 +94,7 @@ serviceAccounts:
 controller:
   image:
     repository: metallb/controller
-    tag: v0.8.1
+    tag: v0.8.3
     pullPolicy: IfNotPresent
   resources: {}
     # limits:
