@@ -40,7 +40,7 @@ nginx-ingress:
   controller:
     image:
       repository: sapcc/nginx-ingress-controller
-      tag: "0.19.0"
+      tag: 0.26.1
 
     livenessProbe:
       initialDelaySeconds: 30
