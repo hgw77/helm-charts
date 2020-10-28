@@ -71,5 +71,5 @@ dependencies:
 
   - name: promtail
     repository: https://grafana.github.io/loki/charts
-    version: 0.15.0
+    version: 0.25.1
     condition: loki.enabled
