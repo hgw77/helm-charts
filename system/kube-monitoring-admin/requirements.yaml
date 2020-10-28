@@ -29,7 +29,7 @@ dependencies:
 
   - name: prometheus-node-exporter
     repository: https://kubernetes-charts.storage.googleapis.com
-    version: 1.6.0
+    version: 1.11.2
 
   - name: prometheus-server
     alias: prometheus-frontend
