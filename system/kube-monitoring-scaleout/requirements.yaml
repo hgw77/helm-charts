@@ -13,7 +13,7 @@ dependencies:
 
   - name: fluent-bit
     repository: https://kubernetes-charts.storage.googleapis.com
-    version: 2.7.1
+    version: 2.10.3
 
   - name: kube-state-metrics
     repository: https://kubernetes-charts.storage.googleapis.com
