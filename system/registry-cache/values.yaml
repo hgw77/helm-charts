@@ -13,7 +13,7 @@
 
 image:
   repository: registry
-  tag: 2.6.1
+  tag: 2.7.1
   pullPolicy: IfNotPresent
 service:
   name: registry
