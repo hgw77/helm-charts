@@ -161,7 +161,7 @@ prometheusOperator:
   ##
   image:
     repository: quay.io/coreos/prometheus-operator
-    tag: v0.29.0
+    tag: v0.42.1
     pullPolicy: IfNotPresent
 
   ## Configmap-reload image to use for reloading configmaps
