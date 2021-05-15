@@ -147,7 +147,7 @@ nginx-ingress:
 
     image:
       repository: sapcc/defaultbackend
-      tag: '1.4'
+      tag: '1.5'
       pullPolicy: IfNotPresent
 
     podAnnotations:
