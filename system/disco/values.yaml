@@ -1,6 +1,6 @@
 image:
   repository: sapcc/disco
-  tag: v201910171439
+  tag: v202012091323
 
 rbac:
   create: false
