@@ -31,7 +31,7 @@ kube-proxy:
 kube-flannel:
   image:
     repository: quay.io/coreos/flannel
-    tag: v0.11.0-amd64
+    tag: v0.14.0-amd64
   kubeConfig: /etc/kubernetes/kubelet/kubeconfig
 
 wormhole:
