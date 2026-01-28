@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: sapcc/tiller
-  tag: v2.11.0
+  tag: v2.17.0
   pullPolicy: IfNotPresent
 
 maxHistory: 5
